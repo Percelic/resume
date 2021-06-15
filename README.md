@@ -2,25 +2,47 @@
 My portfolio &amp; history
 ----
 
+ Used to
+--
+ * FrontEnd 개발 
+ * BackEnd Server 개발
+ * MySQL DB 응용
+
+ Main Business
+--
+ * Spring 및 Webkit 기반 모니터링 시스템 FrontEnd 개량 및 유지보수 (2020 1Q ~ 2021 2Q)
+ * Spring Boot 및 Java 기반 태양광 발전장치, ESS 모니터링 시스템 REST API 서버 개발 (2020 1Q ~ 2021 2Q)
+ * HTML5, JS 기반 태양광 발전장치 모니터링 시스템 FrontEnd 개발 ()
+ * Java 기반 태양광 발전 모니터링 시스템 백엔드 서버 개발
+ * Java 기반 태양광 발전장치 통신 시뮬레이터 개발 (Console)
+ * C# 기반 자사 커스텀 발주 UPS 상태 모니터링 및 제어, 펌웨어 업데이트 프로그램 개발
+ * Java 기반 KT NB-IoT 전송 데이터 수신 HTML 서버 개발
+ * C 기반 태양광 발전 데이터 통신 서버 프로그램 개발 ( 201 )
+ * C WIN32 API 기반 Dasstech 인버터 프로토콜 통신 시뮬레이터 개발 ( 2015 4Q ~ 2016 1Q )
+
  Skills
 --
  * Frontend
-   - HTML5
-   - JS
-   - CSS
+   - HTML5 ( 19.06 ~ )
+   - JS ( jQuery 포함,  19.06 ~ )
+   - CSS ( 19.06 ~ )
  
  * Backend
-   - C ( + Win32 API )
-   - C# ( + WPF 기초 )
-   - Java
-   - Kotlin
+   - C ( 09.03 ~ 09.10 , 14.04 ~ 17.08 )
+   - C++ ( 게임개발 특성화 커리큘럼, 09.10 ~ 11.04 )
+   - C# ( + WPF 기초 ( 18.07 ~ ) , 18.04 ~ )
+   - Lua ( 10년도 ~ 11년도, Corona SDK 통해 모바일 게임 개발 )
+   - Java ( 10.04 ~ 11.09 , 16.04 ~ )
+   - Kotlin ( 21.04 ~ )
+   - Golang ( 21.05 ~ , 기존 Java 기반 프로젝트 포팅 및 리팩토링 )
  
  * Framework
-   - Spring Framework (Legacy)
-   - Spring Boot Framework
+   - Spring Framework (Legacy) ( 19.07 ~ ) 
+   - Spring Boot Framework ( 21.09 ~ )
  
  * DB
-   - MySQL
+   - MySQL(mariaDB) ( 17.06 ~ )
+   - 
 
  * OS
   - Windows
@@ -31,8 +53,7 @@ My portfolio &amp; history
   - SQLD
 
  * Program
-   - TIBCO Jaspersoft Studio (Report Form)
-
+   - TIBCO Jaspersoft Studio (Report Format)
 --
 
  History 
@@ -49,7 +70,7 @@ My portfolio &amp; history
 
    2021.03. 
     - 2번째 웹 개발 프로젝트 :: GS 인증 대응 진행 ( Frontend & Backend 통합 및 Backend 서버  )
-    - 방송통신대학교 졸업    
+    - 방송통신대학교 4년제 졸업
 
   2020
 --
@@ -65,6 +86,10 @@ My portfolio &amp; history
    2019.12. 
     - 1번째 웹 개발 프로젝트 :: GS 인증 완료 ( 성남 TTA )
 
+   2019.03.
+    - 방송통신대학교 3학년 편입
+    - 충북도립대학교 2학년 졸업
+
   2018
 --
    Keyword :: UPS Monitoring Program, IoT Communication Server
@@ -77,7 +102,7 @@ My portfolio &amp; history
 
  2017
 --
- Keyword :: GRMi, 
+ Keyword :: GRMe, 
 
  2016
 --
