@@ -33,7 +33,7 @@ My portfolio &amp; history
    - C# ( + WPF 기초 ( 18.07 ~ ) , 18.04 ~ )
    - Lua ( 10년도 ~ 11년도, Corona SDK 통해 모바일 게임 개발 )
    - Java ( 10.04 ~ 11.09 , 16.04 ~ )
-   - Kotlin ( 21.04 ~ )
+   - Kotlin ( 21.04 ~ , 안드로이드 앱 개발 )
    - Golang ( 21.05 ~ , 기존 Java 기반 프로젝트 포팅 및 리팩토링 )
  
  * Framework
@@ -42,7 +42,6 @@ My portfolio &amp; history
  
  * DB
    - MySQL(mariaDB) ( 17.06 ~ )
-   - 
 
  * OS
   - Windows
