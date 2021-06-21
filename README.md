@@ -16,7 +16,7 @@ My portfolio &amp; history
  * Java 기반 태양광 발전 모니터링 시스템 백엔드 서버 개발 ( 2019 1Q ~ 3Q )
  * Java 기반 태양광 발전장치 통신 시뮬레이터 개발 ( 2019 1Q ~ 4Q )
  * C# 기반 자사 커스텀 발주 UPS 상태 모니터링 및 제어, 펌웨어 업데이트 프로그램 개발 ( 2018 2Q ~ 4Q )
- * Java 기반 KT NB-IoT 전송 데이터 수신 HTML 서버 개발 ( 2018 2Q ~ 3Q )
+ * Java 기반 KT NB-IoT 전송 데이터 수신 테스트베드 HTML 서버 개발 ( 2018 2Q ~ 3Q )
  * C 기반 태양광 발전 데이터 통신 서버 프로그램 개발 ( 2017 1Q ~ 3Q )
  * C WIN32 API 기반 Dasstech 인버터 프로토콜 통신 시뮬레이터 개발 ( 2015 4Q ~ 2016 1Q )
 
@@ -107,7 +107,10 @@ My portfolio &amp; history
 --
  Keyword :: NIPA, 
 
- 2016.01. 청주 지진계측 시스템 모니터링 업무
+ 2016.08~11. 
+  - 청주시 환경감시 시스템 구축 작업 및 모니터링 업무 수행
+   -> S2E 장비로 DB 서버와 인터넷망 통해 데이터 통신 가능하도록 네트워크 구성
+   -> 
  
  2015
 --
@@ -131,19 +134,26 @@ My portfolio &amp; history
   - 첫 회사 입사
   
 --
- ...
+ 2014
+
+--
+ 
 --
  2013
  Keyword :: 졸업
  
- 2012.3. 
+ 2013.3. 
   - KGSHS 7기 졸업
 
 --
  2012
 --
  Keyword :: 동아리, 공모전, 3학년 , 전주대 동아리 공모전, SK Planet
-  - Corona SDK 개발 
+  - Corona SDK 사용하여 모바일 게임 개발
+  - 2012 JJ 창업동아리 지원사업 선정 ( 5Dev, 수상 X ) 
+   -> http://www.jjan.kr/news/articleView.html?idxno=438521
+   -> 
+  - 2012 SK Planet 앱 개발 경진대회 팀 선정 ( 5Dev , 수상 X )
   - 
 --
  2011
@@ -151,7 +161,7 @@ My portfolio &amp; history
  Keyword ::  2학년
  
  2011.
-  - Win32 API 교육 이수
+
   - C++ 교육 이수 
 
 --
@@ -159,6 +169,7 @@ My portfolio &amp; history
 --
  Keyword ::  1학년
  2010.
+  - Win32 API 교육 이수
   - MFC 교육 이수
   - C 언어 교육 이수
   
