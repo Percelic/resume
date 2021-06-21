@@ -131,37 +131,37 @@ My portfolio &amp; history
   - 첫 회사 입사
   
 --
-...
+ ...
 --
- 2012
---
- Keyword :: 졸업 
-
+ 2013
+ Keyword :: 졸업
+ 
  2012.3. 
   - KGSHS 7기 졸업
 
 --
- 2011
+ 2012
 --
- Keyword :: 전주대 동아리 공모전 수상, SK Planet 
-
- 2011.
+ Keyword :: 동아리, 공모전, 3학년 , 전주대 동아리 공모전, SK Planet
   - Corona SDK 개발 
   - 
+--
+ 2011
+--
+ Keyword ::  2학년
+ 
+ 2011.
+  - Win32 API 교육 이수
+  - C++ 교육 이수 
 
-
+--
  2010 
 --
+ Keyword ::  1학년
  2010.
-  - Win32 API 교육 이수
-  - C++ 교육 이수
-
---
- 2009
---
- 2009.04
   - MFC 교육 이수
   - C 언어 교육 이수
   
- 2009.03
+ 2010.03
   - KGSHS 입학
+
