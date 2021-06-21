@@ -17,7 +17,7 @@ My portfolio &amp; history
  * Java 기반 태양광 발전장치 통신 시뮬레이터 개발 (Console)
  * C# 기반 자사 커스텀 발주 UPS 상태 모니터링 및 제어, 펌웨어 업데이트 프로그램 개발
  * Java 기반 KT NB-IoT 전송 데이터 수신 HTML 서버 개발
- * C 기반 태양광 발전 데이터 통신 서버 프로그램 개발 ( 201 )
+ * C 기반 태양광 발전 데이터 통신 서버 프로그램 개발 ( 2017 )
  * C WIN32 API 기반 Dasstech 인버터 프로토콜 통신 시뮬레이터 개발 ( 2015 4Q ~ 2016 1Q )
 
  Skills
