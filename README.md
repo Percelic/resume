@@ -64,10 +64,11 @@ My portfolio &amp; history
    2021.05. 
     - 2번째 웹 개발 프로젝트 :: GS 인증 완료 ( 대구 TTA )
 
-   2021.03~05. 
-    - 2번째 웹 개발 프로젝트 :: GS 인증 결함 Troubleshooting
+   2021.03. 
+
 
    2021.03. 
+    - 2번째 웹 개발 프로젝트 :: GS 인증 결함 Troubleshooting 및 서비스 개선 착수
     - 2번째 웹 개발 프로젝트 :: GS 인증 대응 진행 ( Frontend & Backend 통합 및 Backend 서버  )
     - 방송통신대학교 4년제 졸업
 
@@ -84,6 +85,8 @@ My portfolio &amp; history
 
    2019.12. 
     - 1번째 웹 개발 프로젝트 :: GS 인증 완료 ( 성남 TTA )
+
+   2019.11.
 
    2019.03.
     - 방송통신대학교 3학년 편입
