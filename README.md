@@ -10,14 +10,14 @@ My portfolio &amp; history
 
  Main Business
 --
- * Spring 및 Webkit 기반 모니터링 시스템 FrontEnd 개량 및 유지보수 (2020 1Q ~ 2021 2Q)
- * Spring Boot 및 Java 기반 태양광 발전장치, ESS 모니터링 시스템 REST API 서버 개발 (2020 1Q ~ 2021 2Q)
- * HTML5, JS 기반 태양광 발전장치 모니터링 시스템 FrontEnd 개발 ()
- * Java 기반 태양광 발전 모니터링 시스템 백엔드 서버 개발
- * Java 기반 태양광 발전장치 통신 시뮬레이터 개발 (Console)
- * C# 기반 자사 커스텀 발주 UPS 상태 모니터링 및 제어, 펌웨어 업데이트 프로그램 개발
- * Java 기반 KT NB-IoT 전송 데이터 수신 HTML 서버 개발
- * C 기반 태양광 발전 데이터 통신 서버 프로그램 개발 ( 2017 )
+ * Spring 및 Webkit 기반 모니터링 시스템 FrontEnd 개량 및 유지보수 ( 2020 1Q ~ 2021 2Q )
+ * Spring Boot 및 Java 기반 태양광 발전장치, ESS 모니터링 시스템 REST API 서버 개발 ( 2020 1Q ~ 2021 2Q )
+ * HTML5, JS 기반 태양광 발전장치 모니터링 시스템 FrontEnd 개발 ( 2019 3Q ~ 4Q )
+ * Java 기반 태양광 발전 모니터링 시스템 백엔드 서버 개발 ( 2019 1Q ~ 3Q )
+ * Java 기반 태양광 발전장치 통신 시뮬레이터 개발 ( 2019 1Q ~ 4Q )
+ * C# 기반 자사 커스텀 발주 UPS 상태 모니터링 및 제어, 펌웨어 업데이트 프로그램 개발 ( 2018 2Q ~ 4Q )
+ * Java 기반 KT NB-IoT 전송 데이터 수신 HTML 서버 개발 ( 2018 2Q ~ 3Q )
+ * C 기반 태양광 발전 데이터 통신 서버 프로그램 개발 ( 2017 1Q ~ 3Q )
  * C WIN32 API 기반 Dasstech 인버터 프로토콜 통신 시뮬레이터 개발 ( 2015 4Q ~ 2016 1Q )
 
  Skills
