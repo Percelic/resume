@@ -107,12 +107,25 @@ My portfolio &amp; history
 --
  Keyword :: NIPA, 
 
- 2016.01. 
+ 2016.01. 청주 지진계측 시스템 모니터링 업무
  
  2015
 --
  Keyword :: 복무 
 
+ 2015.11.
+  - Project :: C 언어 , Socket - COM Serial 통신 프로그램 개발
+   -> 요구사항으로 GUI 제공이 추가됨에 따라 보다 자연스러운 구현을 위해 Java >> C & Win32 API 로 언어 변경하여 구현
+   -> C 및 GUI 구현을 위해 Win32 API 사용하여 구현
+   
+   * 프로그램 실행 스토리라인
+   ![image](https://user-images.githubusercontent.com/43790820/122344013-4a58da80-cf81-11eb-94cb-c8cd5859d16b.png)
+   
+   * 프로그램 UI
+   ![image](https://user-images.githubusercontent.com/43790820/122344291-99067480-cf81-11eb-8d78-01f608052a0f.png)
+
+   
+   
  2015.10. 
   - 산업기능요원 현역 복무 시작
   - 첫 회사 입사
@@ -135,13 +148,20 @@ My portfolio &amp; history
  2011.
   - Corona SDK 개발 
   - 
-  - C++ 교육 이수
+
 
  2010 
 --
  2010.
-  -
+  - Win32 API 교육 이수
+  - C++ 교육 이수
+
+--
+ 2009
+--
+ 2009.04
   - MFC 교육 이수
   - C 언어 교육 이수
-
- 
+  
+ 2009.03
+  - KGSHS 입학
