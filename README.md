@@ -138,10 +138,10 @@ My portfolio &amp; history
      -> C 및 GUI 구현을 위해 Win32 API 사용하여 구현
    
      * 프로그램 실행 스토리라인
-     ![image](https://user-images.githubusercontent.com/43790820/122344013-4a58da80-cf81-11eb-94cb-c8cd5859d16b.png)
+   ![image](https://user-images.githubusercontent.com/43790820/122344013-4a58da80-cf81-11eb-94cb-c8cd5859d16b.png)
    
      * 프로그램 UI
-     ![image](https://user-images.githubusercontent.com/43790820/122344291-99067480-cf81-11eb-8d78-01f608052a0f.png)
+   ![image](https://user-images.githubusercontent.com/43790820/122344291-99067480-cf81-11eb-8d78-01f608052a0f.png)
 
    
    
