@@ -74,28 +74,32 @@ My portfolio &amp; history
   2020
 --
    Keyword :: REST API, ESS
-
-   2020.05. 
-    - Web Project #2 :: Spring Boot Framework 기반 REST API 서버 및 DB 구축
-     -> ESS 원격 스케줄링 기능 추가
-     -> 화면 단위로 표시하는 데이터를 DB에서 가져와 필요한 경우 가공하여 HTTP 요청에 대한 응답으로 Json 형식 전송
-     -> 요청 컴포넌트 단위로 분할하여 컴포넌트의 화면 간 이동에 제약을 두지 않음
-     -> Jsoup 크롤링 라이브러리 사용하여 단가 크롤링. 일별, 주기별 단가 데이터 수집
-     -> Admin / User 로 역할 구분하여 메뉴 접근 통제 적용
-     -> Jasper Report 툴로 작성한 보고서 포맷에 따라 매 분기, 월마다 발전소별 발전량 및 발전수익 요약 보고서 출력 자동화 기능 추가 
+   
+   2020.05.
+   
+     - Web Project #2 :: Spring Boot Framework 기반 REST API 서버 및 DB 구축
+      . ESS 원격 스케줄링 기능 추가
+      . 화면 단위로 표시하는 데이터를 DB에서 가져와 필요한 경우 가공하여 HTTP 요청에 대한 응답으로 Json 형식 전송
+      . 요청 컴포넌트 단위로 분할하여 컴포넌트의 화면 간 이동에 제약을 두지 않음
+      . Jsoup 크롤링 라이브러리 사용하여 단가 크롤링. 일별, 주기별 단가 데이터 수집
+      . Admin / User 로 역할 구분하여 메뉴 접근 통제 적용
+      . Jasper Report 툴로 작성한 보고서 포맷에 따라 매 분기, 월마다 발전소별 발전량 및 발전수익 요약 보고서 출력 자동화 기능 추가 
 
   2019
 --
    Keyword :: 1st GS Cert., 
 
    2019.12. 
+   
     - Web Project #1 :: 태양광 발전량 모니터링 시스템 - GS 인증 완료 ( 성남 TTA )
 
    2019.07.
+   
     - Web Project #1 :: 태양광 발전량 모니터링 시스템 v1.0
     - Web Project #1 :: 태양광 발전량 모니터링 시스템 v1.0 - GS 인증 기술적 대응 진행 ( Frontend & Backend )
 
    2019.03.
+   
     - 방송통신대학교 3학년 편입
     - 충북도립대학교 2학년 졸업
 
@@ -104,6 +108,7 @@ My portfolio &amp; history
    Keyword :: UPS Monitoring Program, IoT Communication Server
 
    2018.08.
+   
     - 대리 승진
     - 산업기능요원 현역 소집 해제
 
@@ -117,31 +122,32 @@ My portfolio &amp; history
 --
  Keyword :: NIPA, 
 
- 2016.08~11. 
-  - 청주시 환경감시 시스템 구축 작업 및 모니터링 업무 수행
-   -> S2E 장비로 DB 서버와 인터넷망 통해 데이터 통신 가능하도록 네트워크 구성
-   -> 
+   2016.08~11.
+   
+    - 청주시 환경감시 시스템 구축 작업 및 모니터링 업무 수행
+     -> S2E 장비로 DB 서버와 인터넷망 통해 데이터 통신 가능하도록 네트워크 구성
  
  2015
 --
  Keyword :: 복무 
 
- 2015.11.
-  - Project :: C 언어 , Socket - COM Serial 통신 프로그램 개발
-   -> 요구사항으로 GUI 제공이 추가됨에 따라 보다 자연스러운 구현을 위해 Java >> C & Win32 API 로 언어 변경하여 구현
-   -> C 및 GUI 구현을 위해 Win32 API 사용하여 구현
+   2015.11.
+ 
+    - Project :: C 언어 , Socket - COM Serial 통신 프로그램 개발
+     -> 요구사항으로 GUI 제공이 추가됨에 따라 보다 자연스러운 구현을 위해 Java >> C & Win32 API 로 언어 변경하여 구현
+     -> C 및 GUI 구현을 위해 Win32 API 사용하여 구현
    
-   * 프로그램 실행 스토리라인
-   ![image](https://user-images.githubusercontent.com/43790820/122344013-4a58da80-cf81-11eb-94cb-c8cd5859d16b.png)
+     * 프로그램 실행 스토리라인
+     ![image](https://user-images.githubusercontent.com/43790820/122344013-4a58da80-cf81-11eb-94cb-c8cd5859d16b.png)
    
-   * 프로그램 UI
-   ![image](https://user-images.githubusercontent.com/43790820/122344291-99067480-cf81-11eb-8d78-01f608052a0f.png)
+     * 프로그램 UI
+     ![image](https://user-images.githubusercontent.com/43790820/122344291-99067480-cf81-11eb-8d78-01f608052a0f.png)
 
    
    
- 2015.10. 
-  - 산업기능요원 현역 복무 시작
-  - 첫 회사 입사
+   2015.10. 
+    - 산업기능요원 현역 복무 시작
+    - 성창통신 입사
   
 --
  2014
