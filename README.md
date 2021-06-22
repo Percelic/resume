@@ -62,14 +62,13 @@ My portfolio &amp; history
    Keyword :: 2nd GS Cert.,
 
    2021.05. 
-    - 2번째 웹 개발 프로젝트 :: GS 인증 완료 ( 대구 TTA )
+    - Web Project #2 :: 쏠라쎈 v1.0 - GS 인증 완료 ( 대구 TTA ) 
 
    2021.03. 
-
-
-   2021.03. 
-    - 2번째 웹 개발 프로젝트 :: GS 인증 결함 Troubleshooting 및 서비스 개선 착수
-    - 2번째 웹 개발 프로젝트 :: GS 인증 대응 진행 ( Frontend & Backend 통합 및 Backend 서버  )
+    - Web Project #2 :: 쏠라쎈 v1.0 - GS 인증 결함 Troubleshooting 및 서비스 개선 착수
+     -> 시험 결과 발견된 결함 피드백 받아 프론트엔드, 백엔드 수정 작업 진행  
+    - 2번째 웹 개발 프로젝트 :: 쏠라쎈 v1.0 - GS 인증 기술적 대응 진행 ( Frontend & Backend 서버 )
+     -> 시험 환경 설치 및 시험 매뉴얼 작성
     - 방송통신대학교 4년제 졸업
 
   2020
@@ -77,16 +76,24 @@ My portfolio &amp; history
    Keyword :: REST API, ESS
 
    2020.05. 
-    - 2번째 웹 개발 프로젝트 :: Spring Boot Framework 기반 REST API 서버 및 DB 구축
+    - Web Project #2 :: Spring Boot Framework 기반 REST API 서버 및 DB 구축
+     -> ESS 원격 스케줄링 기능 추가
+     -> 화면 단위로 표시하는 데이터를 DB에서 가져와 필요한 경우 가공하여 HTTP 요청에 대한 응답으로 Json 형식 전송
+     -> 요청 컴포넌트 단위로 분할하여 컴포넌트의 화면 간 이동에 제약을 두지 않음
+     -> Jsoup 크롤링 라이브러리 사용하여 단가 크롤링. 일별, 주기별 단가 데이터 수집
+     -> Admin / User 로 역할 구분하여 메뉴 접근 통제 적용
+     -> Jasper Report 툴로 작성한 보고서 포맷에 따라 매 분기, 월마다 발전소별 발전량 및 발전수익 요약 보고서 출력 자동화 기능 추가 
 
-  2019  
+  2019
 --
    Keyword :: 1st GS Cert., 
 
    2019.12. 
-    - 1번째 웹 개발 프로젝트 :: GS 인증 완료 ( 성남 TTA )
+    - Web Project #1 :: 태양광 발전량 모니터링 시스템 - GS 인증 완료 ( 성남 TTA )
 
-   2019.11.
+   2019.07.
+    - Web Project #1 :: 태양광 발전량 모니터링 시스템 v1.0
+    - Web Project #1 :: 태양광 발전량 모니터링 시스템 v1.0 - GS 인증 기술적 대응 진행 ( Frontend & Backend )
 
    2019.03.
     - 방송통신대학교 3학년 편입
