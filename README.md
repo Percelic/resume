@@ -32,10 +32,20 @@
   - 장치 상태 데이터 모니터링 화면 - DB 연동
   - TCP/IP 소켓 통신 기반 UPS On/Off 절체 및 보안 장치 Lock/Unlock 기능 개발
 
-4. KT NB-IoT 통신 테스트베드 HTTP 서버 개발 ( 18.02 ~ 18.08 )
+4. KT NB-IoT 단말 통신 테스트베드 HTTP 서버 개발 ( 18.02 ~ 18.08 )
   - Java, HTML, Javascript, MySQL DB, Apache Tomcat Web Server 사용
 
-  - NB-IoT 단말 <-> KT IoTMaker <-> 서버 간 HTTP Request 데이터 수집 및 전송 가능한 백엔드 개발
+  - NB-IoT 단말 <-> KT IoTMaker <-> 서버 간 HTTP Request를 통해 데이터 송수신 가능한 백엔드 개발
   - payload 데이터 적재를 위한 MySQL DB 테이블 구축
+
+5. 인버터 시뮬레이터 개발 
+
+6. 태양광 발전 데이터 수집 프로그램 개발 
+
+
+7. 청주 환경감시장치 데이터 수집 프로그램 개발
+  - 
+  - Win32 API 사용하여 GUI 구성 
+
 
 !!추가중
