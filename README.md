@@ -48,29 +48,40 @@
        
 ![image](https://user-images.githubusercontent.com/43790820/124050765-2bb11400-da56-11eb-9ac2-fd1e392a2482.png)
 
-4. 에코스 인버터 프로토콜 통신 시뮬레이터 개발 (18.11 ~ 18.12)
+4. 에코스 인버터 프로토콜 통신 시뮬레이터 개발 ( 18.11 ~ 18.12 )
 
        C# 사용
        Windows 환경에서 개발 및 동작
        
-       PC와 Serial to USB 장비로 연결된 RTU Device로부터 입력한 요청 데이터를 수신하면 입력한 응답을 반환
+       PC와 RS-232/485 Serial to USB 장비로 연결된 RTU Device로부터 입력한 요청 데이터를 수신하면 입력한 응답을 반환
        RTU 장비-인버터 프로토콜 통신 테스트 목적으로 개발
        
 ![image](https://user-images.githubusercontent.com/43790820/124068995-78a4e280-da76-11eb-888f-538e8c2e3c52.png)
 
-5. 자사 커스텀 UPS 및 보안 장치 모니터링/제어 프로그램 개발 (18.04 ~ 18.12) 
+5. Dasstech 인버터 시뮬레이터 개발 ( 18.05 ~ 18.09 )
+
+       C, Win32 API 사용
+       Windows 환경에서 개발 및 동작
+       
+       Dasstech 인버터 프로토콜 통신을 시뮬레이션하는 프로그램
+       PC와 RS-232/485 Serial to USB 장치로 연결된 Device로부터 
+       인버터 데이터 요청 프로토콜 수신 시 랜덤 또는 정해진 데이터를 프로토콜로 반환
+       
+![image](https://user-images.githubusercontent.com/43790820/124210562-9af63900-db26-11eb-83ba-b0eea2cd4a32.png)
+
+6. 자사 커스텀 UPS 및 보안 장치 모니터링/제어 프로그램 개발 ( 18.04 ~ 18.12 ) 
       
        C#, MySQL DB 사용
        Windows 환경에서 개발 및 동작
 
-       고객 요구사항에 맞춰 제작한 UPS와 함께 납품한 프로그램
+       고객 요구사항에 맞춰 제작한 UPS와 함께 납품됨
        장치 상태 데이터 및 장치 제어 프로토콜 송수신 개발
        장치 상태 데이터 모니터링 화면 - DB 연동
        TCP/IP 소켓 통신 기반 UPS On/Off 절체 및 보안 장치 Lock/Unlock 기능 개발
        
 ![image](https://user-images.githubusercontent.com/43790820/124052183-e3dfbc00-da58-11eb-86c3-1b5d5f6ae7bd.png)
 
-6. KT NB-IoT 단말 통신 테스트베드 HTTP 서버 개발 ( 18.02 ~ 18.08 )
+7. KT NB-IoT 단말 통신 테스트베드 HTTP 서버 개발 ( 18.02 ~ 18.08 )
   
        Java, HTML, Javascript, MySQL DB, Apache Tomcat Web Server 사용
        Windows 환경에서 개발 및 동작
@@ -80,7 +91,9 @@
        payload 데이터의 ASCII to HEX 파싱 구현
        파싱된 payload 정보 적재를 위한 MySQL DB 테이블 구축
        
-7. 자사 태양광 발전 및 환경정보 수집 및 제어기 테스트 시뮬레이터 개발 ( 18.03 ~ 18.05 )
+       
+       
+8. 자사 태양광 발전 및 환경정보 수집 및 제어기 테스트 시뮬레이터 개발 ( 18.03 ~ 18.05 )
 
        C, Win32 API 사용
        Windows 환경에서 개발 및 동작
@@ -90,30 +103,36 @@
        
 ![image](https://user-images.githubusercontent.com/43790820/124057694-ef37e500-da62-11eb-942d-1fbdb58c019f.png)      
 
-8. 태양광 발전소 환경 데이터 수집 및 원격 고도, 방위각 제어 프로그램 개발 ( 17.05 ~ 17.09 )
+9. 태양광 발전소 환경 데이터 수집 및 원격 고도, 방위각 제어 프로그램 개발 ( 17.05 ~ 17.09 )
       
        C, Win32 API 사용
        Windows 환경에서 개발 및 동작
        
-       TCP/IP 소켓 서버를 열어 접속한 발전소 제어기의 환경 데이터 수집 및 고도, 방위각을 제어하는 프로토콜 전송
-       
+       TCP/IP 소켓 서버를 열고 서버에 접속한 발전소 제어기의 환경 데이터를 수집 및 고도, 방위각을 제어하는 프로토콜 전송 
 
 ![image](https://user-images.githubusercontent.com/43790820/124067162-ddf7d400-da74-11eb-8f46-c8f55b65a491.png)
 
 
-9. 태양광 발전 데이터 수집 프로그램 개발 ( 17.02 ~ 17.06 )
+10. 태양광 발전 데이터 수집 프로그램 개발 ( 17.02 ~ 17.06 )
 
-       C, MySQL DB 사용
-       Linux Ubuntu 환경에서 개발 및 동작
+        C, MySQL DB 사용
+        Windows 환경에서 개발 , Linux 환경에서 동작
        
-       자사 태양광 발전소 발전량 데이터 수집을 위한 데이터 수집 프로그램 개발 
+        자사 태양광 발전소 발전량 데이터 수집을 위한 프로그램 개발 
        
-10. 청주 환경감시장치 데이터 수집 프로그램 개발 ( 16.06 ~ 16.11 ) 
+11. 청주 환경감시장치 데이터 수집 프로그램 개발 ( 16.06 ~ 16.11 ) 
                                          
         C, Win32 API, MySQL DB 사용
         Windows 환경에서 개발 및 동작
         
         수신 데이터를 파싱하여 MySQL DB에 적재        
         Watchdog 프로그램 개발 및 동시 운영하여 상호 프로세스 동작 감시 및 프로세스 비정상 종료 시 재실행
-        
-!!추가중
+
+12. Serial to Socket 통신 프로그램 개발 ( 15.10 ~ 15.11 )
+
+        C, Win32 API 사용
+       
+        Serial Port의 수신(RX) 데이터를 TCP/IP 소켓 통신을 통해 반환
+        TCP/IP 소켓에서 수신된 데이터를 Serial Port 송신(TX) 데이터로 전송
+       
+![image](https://user-images.githubusercontent.com/43790820/124213431-810b2500-db2b-11eb-9771-560632494740.png)
