@@ -64,7 +64,7 @@
 
 4. 에코스 인버터 프로토콜 통신 시뮬레이터 개발 ( 18.11 ~ 18.12 )
 
-<img src="https://img.shields.io/badge/C%20Sharp-239120?style=flat-square&logo=C%20Sharp&logoColor=white" />
+<img src="https://img.shields.io/badge/C%20Sharp-239120?style=flat-square&logo=C%20Sharp&logoColor=white" /> <img src="https://img.shields.io/badge/Windows-white?style=flat-square&logo=Windows&logoColor=0078D6" />
        
        PC와 RS-232/485 Serial to USB 장비로 연결된 RTU Device로부터 요청 데이터를 수신하면 입력된 응답을 반환
        Modbus 프로토콜 적용
@@ -74,7 +74,7 @@
 
 5. Dasstech 인버터 시뮬레이터 개발 ( 18.05 ~ 18.09 ) 
 
-<img src="https://img.shields.io/badge/C-A8B9CC?style=flat-square&logo=C&logoColor=white" />
+<img src="https://img.shields.io/badge/C-A8B9CC?style=flat-square&logo=C&logoColor=white" /> <img src="https://img.shields.io/badge/Windows-white?style=flat-square&logo=Windows&logoColor=0078D6" />
        
        Dasstech 인버터 프로토콜 통신 시뮬레이션 프로그램
        PC와 RS-232/485 Serial to USB 장치로 연결된 Device로부터 
@@ -84,7 +84,7 @@
 
 6. 고객 맞춤 사양 UPS 및 연동 보안 장치 모니터링/제어 프로그램 개발 ( 18.04 ~ 18.12 ) 
 
-<img src="https://img.shields.io/badge/C%20Sharp-239120?style=flat-square&logo=C%20Sharp&logoColor=white" /> <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=MySQL&logoColor=white" />
+<img src="https://img.shields.io/badge/C%20Sharp-239120?style=flat-square&logo=C%20Sharp&logoColor=white" /> <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=MySQL&logoColor=white" /> <img src="https://img.shields.io/badge/Windows-white?style=flat-square&logo=Windows&logoColor=0078D6" />
 
        고객 맞춤 사양에 맞춰 제작된 UPS와 납품
        TCP/IP 소켓 통신 기반 UPS 및 UPS와 연동된 보안 장치 상태/알람 데이터 및 장치 제어 프로토콜 송수신 구현
