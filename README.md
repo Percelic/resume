@@ -9,7 +9,23 @@
 |**IDE**| <img src="https://img.shields.io/badge/Visual%20Studio-5C2D91?style=flat-square&logo=Visual%20Studio&logoColor=white" /> <img src="https://img.shields.io/badge/Eclipse%20IDE-2C2255?style=flat-square&logo=Eclipse%20IDE&logoColor=white" /> <img src="https://img.shields.io/badge/Visual%20Studio%20Code-007ACC?style=flat-square&logo=Visual%20Studio%20Code&logoColor=white" /> |
 |**OS**| <img src="https://img.shields.io/badge/Windows-white?style=flat-square&logo=Windows&logoColor=0078D6" /> <img src="https://img.shields.io/badge/Ubuntu-white?style=flat-square&logo=Ubuntu&logoColor=E95420" /> |
 
-# 경력기술서
+# 경력
+|     프로젝트    |    기간   |사용 언어 및 기술|
+|-----------------|-----------|---------------------|
+|신재생에너지 발전설비 설치 세대 생산/소비 전력 모니터링 시스템 구축|22.05 ~ 22.08 (진행중)|Golang,MySQL,JSP,Javascript|
+|RTU 다형 프로토콜 데이터 수용 및 모니터링 시스템 구축|21.06 ~ 22.08 (진행중)|Golang,MySQL,|
+|ESS 관제 및 태양광 발전 모니터링 시스템 구축|20.04 ~ 21.05|Java,JSP,Javascript,Spring,Spring Boot,MySQL|
+|태양광 발전량 모니터링 시스템 및 시험 환경 시뮬레이터 개발|19.02 ~ 19.12||
+|인버터 데이터 수집 원격 단말 장치 (RTU) 개발|18.05 ~ 18.12||
+|UPS 및 UPS와 연동된 잠금 제어 장치 모니터링/관제 프로그램 |18.04 ~ 18.12||
+|KT LPWA 통신 모듈과 양방향 통신 가능한 테스트베드 HTTP 서버 구축|18.02 ~ 18.08||
+|태양광 발전량 및 환경정보 수집 제어기 테스트 시뮬레이터 개발|18.03 ~ 18.05||
+|태양광 발전소 환경 데이터 수집 및 원격 고도, 방위각 제어 프로그램 개발|17.05 ~ 17.09||
+|태양광 발전 데이터 수집 프로그램 개발|17.02 ~ 17.06||
+|청주 환경감시장치 데이터 모니터링|16.06 ~ 16.11||
+|Serial to Socket 통신 프로그램 개발|15.10 ~ 15.11||
+
+# 경력기술
 
 1. 프로토콜 데이터 수집 서버 개발 ( 21.06 ~ ) 
 
@@ -24,7 +40,7 @@
        3) 주요 성과
         - ( 진행 중 )
 
-2. ESS, 태양광 발전량 모니터링 시스템 개발 ( 20.04 ~ 21.05 ) 
+2. ESS 관제 및 태양광 발전량 모니터링 시스템 구축 ( 20.04 ~ 21.05 ) 
 
 <img src="https://img.shields.io/badge/Spring(Legacy)-6DB33F?style=flat-square&logo=Spring&logoColor=white" /> <img src="https://img.shields.io/badge/Spring%20Boot-6DB33F?style=flat-square&logo=Spring%20Boot&logoColor=white" /> <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=HTML5&logoColor=white" /> <img src="https://img.shields.io/badge/Javascript-white?style=flat-square&logo=Javascript&logoColor=orange" /> <img src="https://img.shields.io/badge/jQuery-0769AD?style=flat-square&logo=jQuery&logoColor=white" /> <img src="https://img.shields.io/badge/JSON%20Web%20Tokens-white?style=flat-square&logo=JSON%20Web%20Tokens&logoColor=black" />  <img src="https://img.shields.io/badge/JSON-white?style=flat-square&logo=JSON&logoColor=black" /> <img src="https://img.shields.io/badge/Java-white?style=flat-square&logo=Java&logoColor=red" /> <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=MySQL&logoColor=white" /> <img src="https://img.shields.io/badge/Apache%20Tomcat-F8DC75?style=flat-square&logo=Apache%20Tomcat&logoColor=black" /> <img src="https://img.shields.io/badge/Postman-FF6C37?style=flat-square&logo=Postman&logoColor=white" /> <img src="https://img.shields.io/badge/Docker-4479A1?style=flat-square&logo=Docker&logoColor=white" /> <img src="https://img.shields.io/badge/Ubuntu-white?style=flat-square&logo=Ubuntu&logoColor=E95420" /> 
 
@@ -98,7 +114,7 @@
 [Dasstech 인버터 통신 시뮬레이터]       
 ![image](https://user-images.githubusercontent.com/43790820/124210562-9af63900-db26-11eb-83ba-b0eea2cd4a32.png)
 
-5. 납품처 맞춤 사양 UPS 및 연동 보안 장치 모니터링/제어 프로그램 납품 ( 18.04 ~ 18.12 ) 
+5. UPS 및 UPS와 연동되는 잠금 제어 장치 모니터링/관제 프로그램 납품 ( 18.04 ~ 18.12 ) 
 
 <img src="https://img.shields.io/badge/C%20Sharp-239120?style=flat-square&logo=C%20Sharp&logoColor=white" /> <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=MySQL&logoColor=white" /> <img src="https://img.shields.io/badge/Windows-white?style=flat-square&logo=Windows&logoColor=0078D6" />
 
